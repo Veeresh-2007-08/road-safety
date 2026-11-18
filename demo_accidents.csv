@@ -1,0 +1,17 @@
+accident_id,date,latitude,longitude,road_name,ward,severity,vehicle_type,cause,source_id,confidence_level
+ACC_DEMO_001,2025-11-12,12.9174,77.6235,Hosur Road,Madivala,Fatal,Two-wheeler,High-speed lane merge at flyover mouth,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_002,2025-12-04,12.9181,77.6241,Outer Ring Road,HSR Layout,Grievous,Car,Rear-end collision during sudden braking,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_003,2025-12-19,13.0354,77.5976,Bellary Road,Hebbal,Fatal,Bus,Loss of control on wet ramp curve,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_004,2026-01-05,13.0365,77.5968,Bellary Road,Hebbal,Grievous,Two-wheeler,Blind-spot side swipe by commercial vehicle,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_005,2026-01-14,12.9985,77.6621,Old Madras Road,KR Puram,Fatal,Pedestrian,Uncontrolled pedestrian crossing at bus bay,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_006,2026-01-22,12.9978,77.6630,Old Madras Road,Benniganahalli,Minor,Auto-rickshaw,Sudden halt at bottleneck merge,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_007,2026-01-30,13.0289,77.5412,Tumkur Road,Yeshwanthpur,Fatal,Truck,Brake failure at signal queue,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_008,2026-02-02,12.9531,77.5409,Mysore Road,Deepanjali Nagar,Grievous,Two-wheeler,Skid on poorly illuminated pavement edge,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_009,2026-02-11,12.9667,77.5988,Residency Road,Shantala Nagar,Minor,Car,Failure to yield on flyover curve split,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_010,2026-02-15,12.9351,77.5994,Bannerghatta Road,Adugodi,Grievous,Two-wheeler,Collision with road median barrier,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_011,2026-02-20,12.9550,77.7015,Outer Ring Road,Marathahalli,Fatal,Two-wheeler,High-speed impact with stalled vehicle,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_012,2026-02-24,12.9752,77.6068,MG Road,Sampangi Rama Nagar,Minor,Car,Low-speed side collision near junction,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_013,2026-03-01,12.9784,77.6408,100 Feet Road,Indiranagar,Minor,Two-wheeler,Night-time dooring by parked vehicle,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_014,2026-03-03,12.9344,77.6101,Koramangala 80 Feet Road,Koramangala,Grievous,Car,T-bone collision at unsignalized intersection,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_015,2026-03-07,13.0084,77.5702,Sampige Road,Malleshwaram,Minor,Auto-rickshaw,Pedestrian evasive turn,SRC_DEMO_BENCHMARK,demo
+ACC_DEMO_016,2026-03-09,12.9298,77.5833,Rashtriya Vidyalaya Road,Jayanagar,Minor,Bicycle,Overtaking vehicle proximity clash,SRC_DEMO_BENCHMARK,demo

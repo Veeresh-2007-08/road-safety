@@ -1,0 +1,15 @@
+speed_limit_id,road_name,latitude,longitude,speed_kmph,direction,source_id,verified_date,confidence_level
+SPD_DEMO_001,Hosur Road Elevated Expressway,12.9102,77.6320,80,Both,SRC_DEMO_BENCHMARK,2026-02-01,verified_demo
+SPD_DEMO_002,Hosur Road (Surface Level Silk Board),12.9180,77.6230,50,Both,SRC_DEMO_BENCHMARK,2026-02-01,verified_demo
+SPD_DEMO_003,Bellary Road (NH 44 Airport Corridor),13.0450,77.5980,80,Both,SRC_DEMO_BENCHMARK,2026-01-15,verified_demo
+SPD_DEMO_004,Hebbal Flyover Loops,13.0360,77.5970,30,Both,SRC_DEMO_BENCHMARK,2026-01-15,verified_demo
+SPD_DEMO_005,Outer Ring Road (Silk Board to Marathahalli),12.9300,77.6850,60,Both,SRC_DEMO_BENCHMARK,2026-02-10,verified_demo
+SPD_DEMO_006,Outer Ring Road (Marathahalli to KR Puram),12.9720,77.6980,60,Both,SRC_DEMO_BENCHMARK,2026-02-10,verified_demo
+SPD_DEMO_007,Old Madras Road (Indiranagar to KR Puram),12.9850,77.6500,50,Both,SRC_DEMO_BENCHMARK,2026-01-20,verified_demo
+SPD_DEMO_008,MG Road (Anil Kumble Circle to Trinity),12.9740,77.6110,40,Both,SRC_DEMO_BENCHMARK,2026-02-15,verified_demo
+SPD_DEMO_009,Koramangala 100 Feet Intermediate Ring Road,12.9370,77.6280,50,Both,SRC_DEMO_BENCHMARK,2026-02-15,verified_demo
+SPD_DEMO_010,Richmond Circle Flyover,12.9660,77.5990,30,Both,SRC_DEMO_BENCHMARK,2026-02-18,verified_demo
+SPD_DEMO_011,Tumkur Road Elevated Highway,13.0350,77.5350,80,Both,SRC_DEMO_BENCHMARK,2026-01-18,verified_demo
+SPD_DEMO_012,Mysore Road Corridor,12.9550,77.5450,50,Both,SRC_DEMO_BENCHMARK,2026-01-22,verified_demo
+SPD_DEMO_013,100 Feet Road Indiranagar,12.9750,77.6410,40,Both,SRC_DEMO_BENCHMARK,2026-02-25,verified_demo
+SPD_DEMO_014,Kanakapura Road (Banashankari to NICE Rd),12.9050,77.5680,60,Both,SRC_DEMO_BENCHMARK,2026-01-25,verified_demo

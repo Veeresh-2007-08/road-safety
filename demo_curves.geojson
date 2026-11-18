@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "name": "bengaluru_demo_road_curves",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5962, 13.0345],
+          [77.5971, 13.0359],
+          [77.5985, 13.0366]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_001",
+        "road_name": "Hebbal Flyover Loop to Outer Ring Road",
+        "curve_severity": "sharp",
+        "estimated_radius_meters": 45,
+        "warning_text": "Severe blind left loop with steep deceleration requirement. Reduce speed to under 30 km/h.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5982, 12.9658],
+          [77.5991, 12.9664],
+          [77.5998, 12.9672]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_002",
+        "road_name": "Richmond Circle Flyover Incline S-Bend",
+        "curve_severity": "sharp",
+        "estimated_radius_meters": 55,
+        "warning_text": "Tight elevated S-bend with restricted lane width. Slow down and maintain single file.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6225, 12.9168],
+          [77.6238, 12.9177],
+          [77.6250, 12.9184]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_003",
+        "road_name": "Silk Board Junction Ramp Curve",
+        "curve_severity": "moderate",
+        "estimated_radius_meters": 85,
+        "warning_text": "Moderate merge curve with heavy commercial weaving. Watch for blind spots.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6610, 12.9975],
+          [77.6625, 12.9982],
+          [77.6635, 12.9990]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_004",
+        "road_name": "KR Puram Cable Stayed Bridge Western Approach",
+        "curve_severity": "moderate",
+        "estimated_radius_meters": 95,
+        "warning_text": "Curved bridge approach with uneven expansion joints and sudden traffic accumulation.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5985, 12.9340],
+          [77.5997, 12.9348],
+          [77.6005, 12.9355]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_005",
+        "road_name": "Dairy Circle Underpass Entry Arc",
+        "curve_severity": "moderate",
+        "estimated_radius_meters": 110,
+        "warning_text": "Entry arc into underpass; reduced visibility during bright daylight transition.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5395, 13.0275],
+          [77.5408, 13.0285],
+          [77.5418, 13.0298]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_006",
+        "road_name": "Goraguntepalya Outer Ring Road Bend",
+        "curve_severity": "gentle",
+        "estimated_radius_meters": 160,
+        "warning_text": "Wide sweeping bend; maintain safe following distance at high speeds.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6995, 12.9545],
+          [77.7011, 12.9553],
+          [77.7025, 12.9560]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_007",
+        "road_name": "Marathahalli Multiplex Curve",
+        "curve_severity": "moderate",
+        "estimated_radius_meters": 90,
+        "warning_text": "Sweeping curve before signal with pedestrian crossings; exercise caution.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5815, 12.9710],
+          [77.5830, 12.9715],
+          [77.5845, 12.9725]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_008",
+        "road_name": "Corporation Circle to Hudson Circle Curve",
+        "curve_severity": "sharp",
+        "estimated_radius_meters": 40,
+        "warning_text": "Sharp radius multi-lane junction curve. Pedestrian and bus priority zone.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6390, 12.9770],
+          [77.6408, 12.9784],
+          [77.6420, 12.9792]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_009",
+        "road_name": "Indiranagar 100 Feet Road / CMH Road Junction Bend",
+        "curve_severity": "moderate",
+        "estimated_radius_meters": 80,
+        "warning_text": "Frequent congestion and blind-turn merges with commercial traffic.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.5398, 12.9525],
+          [77.5412, 12.9535],
+          [77.5425, 12.9548]
+        ]
+      },
+      "properties": {
+        "curve_id": "CRV_DEMO_010",
+        "road_name": "Mysore Road Satellite Bus Station Curve",
+        "curve_severity": "sharp",
+        "estimated_radius_meters": 50,
+        "warning_text": "Sharp turn radius near heavy interstate bus exit. Yield to turning buses.",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "confidence_level": "geometry-derived (demo)"
+      }
+    }
+  ]
+}

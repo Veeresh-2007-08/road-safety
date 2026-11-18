@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "name": "bengaluru_demo_blackspots",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6238, 12.9177] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_001",
+        "name": "Silk Board Junction - Hosur Rd Merge",
+        "road_name": "Outer Ring Road / Hosur Road",
+        "latitude": 12.9177,
+        "longitude": 77.6238,
+        "radius_meters": 120,
+        "accident_count": 28,
+        "fatal_count": 7,
+        "risk_score": 92.5,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-02-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5971, 13.0359] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_002",
+        "name": "Hebbal Flyover Inbound Merge",
+        "road_name": "Bellary Road (NH 44)",
+        "latitude": 13.0359,
+        "longitude": 77.5971,
+        "radius_meters": 150,
+        "accident_count": 31,
+        "fatal_count": 9,
+        "risk_score": 95.0,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-02-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.6625, 12.9982] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_003",
+        "name": "Tin Factory - KR Puram Ramp Junction",
+        "road_name": "Old Madras Road (NH 75)",
+        "latitude": 12.9982,
+        "longitude": 77.6625,
+        "radius_meters": 140,
+        "accident_count": 24,
+        "fatal_count": 6,
+        "risk_score": 88.0,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-01-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5408, 13.0285] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_004",
+        "name": "Goraguntepalya Junction Crossing",
+        "road_name": "Tumkur Road (NH 48)",
+        "latitude": 13.0285,
+        "longitude": 77.5408,
+        "radius_meters": 130,
+        "accident_count": 22,
+        "fatal_count": 5,
+        "risk_score": 84.0,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-02-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5412, 12.9535] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_005",
+        "name": "Deepanjali Nagar Metro - Mysore Rd Junction",
+        "road_name": "Mysore Road",
+        "latitude": 12.9535,
+        "longitude": 77.5412,
+        "radius_meters": 110,
+        "accident_count": 19,
+        "fatal_count": 4,
+        "risk_score": 79.0,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-01-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5991, 12.9664] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_006",
+        "name": "Richmond Circle Flyover Sharp Descent",
+        "road_name": "Kasturba Road / Residency Road",
+        "latitude": 12.9664,
+        "longitude": 77.5991,
+        "radius_meters": 80,
+        "accident_count": 14,
+        "fatal_count": 2,
+        "risk_score": 71.0,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-02-18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.5997, 12.9348] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_007",
+        "name": "Dairy Circle Underpass Transition",
+        "road_name": "Hosur Road / Bannerghatta Road",
+        "latitude": 12.9348,
+        "longitude": 77.5997,
+        "radius_meters": 90,
+        "accident_count": 17,
+        "fatal_count": 3,
+        "risk_score": 75.0,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-02-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.7011, 12.9553] },
+      "properties": {
+        "blackspot_id": "BS_DEMO_008",
+        "name": "Marathahalli Bridge ORR Merge",
+        "road_name": "Outer Ring Road - Marathahalli",
+        "latitude": 12.9553,
+        "longitude": 77.7011,
+        "radius_meters": 115,
+        "accident_count": 26,
+        "fatal_count": 6,
+        "risk_score": 87.0,
+        "status": "demo",
+        "source_id": "SRC_DEMO_BENCHMARK",
+        "verified_date": "2026-02-22"
+      }
+    }
+  ]
+}
